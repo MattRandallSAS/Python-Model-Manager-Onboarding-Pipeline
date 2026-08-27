@@ -23,7 +23,8 @@ Models are picked up either from a SAS Content location or directly from the com
 
    The core inputs: the first model's pickle file, an optional name and algorithm label (auto-detected from the model's class if left blank), the training data CSV, optional explicit predictor columns (auto-detected from the model if left blank), the target column, and an optional held-out evaluation dataset for honest model-card metrics.
 
-   ![](img/PythonModelToModelManager-tabModelData.png)
+![alt text](image.png)
+
 
 * ### Additional models (optional) ###
 
